@@ -1,6 +1,6 @@
 # Kemi's BI-Dashboards Portfolio
 
-# [Project 1: Profitability Analysis](https://drive.google.com/file/d/1IppUJsQNDVFO0C9AyMTPv-eQPmuG0Ixy/view?usp=sharing)
+# [Project 1: Profitability Analysis Using Power BI](https://drive.google.com/file/d/1IppUJsQNDVFO0C9AyMTPv-eQPmuG0Ixy/view?usp=sharing)
 
 In this project, I analyzed the performance of a company’s product lines to identify areas for improvement and enhance overall profitability.
 
@@ -22,7 +22,7 @@ Load and Transform Data
 
 Join Data
 
-Visualize Data
+Visualize Data [here](https://drive.google.com/file/d/12Jvf1eskCjuLvB2J1vkahYhX2r-jAz9f/view?usp=sharing)
 *  KPIs Chart using Multi-row card
 *  Profit Trend Chart using Line and stacked column chart
 *  Profit by Category Chart using Matrix chart
