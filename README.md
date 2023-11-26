@@ -30,6 +30,8 @@ Visualize Data [here](https://drive.google.com/file/d/12Jvf1eskCjuLvB2J1vkahYhX2
 *  Profit by State Chart using Tree map
 *  Profit Insights Page that includes an enhanced scatter chart for interactive analysis, Key Influencers chart for deeper insights and Q&A chart for ad hoc analysis.
 *  Slicers and Filters
+![](Images/Profit Analysis.jpg)
+![](Images/Profit Insight.jpg)
 
 
 Recommendations
