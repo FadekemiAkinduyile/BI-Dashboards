@@ -30,8 +30,9 @@ Visualize Data
 *  Profit by State Chart using Tree map
 *  Profit Insights Page that includes an enhanced scatter chart for interactive analysis, Key Influencers chart for deeper insights and Q&A chart for ad hoc analysis.
 *  Slicers and Filters
+  
 Recommendations
-1.      Expand profitable sub-categories
+1.  Expand profitable sub-categories
 2.  Consider not selling unprofitable sub-categories
 3.  Review the most unprofitable customers and underperforming states.
 
