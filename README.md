@@ -45,7 +45,7 @@ Recommendations
 
 The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Power BI course, using the E-commerce Data dataset from Kaggle. https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
-
+#
 
 # [Project 2: Data Exploration and Visualization using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile)
 
