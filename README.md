@@ -84,7 +84,7 @@ In this project, I analyzed the performance of a company's product lines, with t
 
 *  Goal: Review current product lines and identify areas for improvement
 *  Users: Finance Team
-*  Actions: Identify revenue improvement areas<br> - Identify low-performing sales reps and regions<br> - Identify variance in product pricing
+*  Actions: <br> - Identify revenue improvement areas<br> - Identify low-performing sales reps and regions<br> - Identify variance in product pricing
 *  Usage Frequency: Monthly
 
 **Key Performance Indicators (KPIs):**
