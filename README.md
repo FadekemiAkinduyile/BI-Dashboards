@@ -36,12 +36,12 @@ Visualize Data [here](https://drive.google.com/file/d/12Jvf1eskCjuLvB2J1vkahYhX2
  ![image 2](Images/insight.png)
 
 
-Recommendations
+**Recommendations:**
 1.	Expand profitable sub-categories
 2.	Consider not selling unprofitable sub-categories
 3.  Review the most unprofitable customers and underperforming states.
 
-**Project and Dataset Acknowledgements**
+**Project and Dataset Acknowledgements:**
 
 The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Power BI course, using the E-commerce Data dataset from Kaggle. https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
@@ -59,12 +59,12 @@ In this project, I explored COVID-19 data, specifically focusing on total cases,
 
 ![image](Images/covid.png)
 
-**How to Use**
+**How to Use:**
 
 1. Execute the SQL queries in a SQL Server environment with the provided dataset.
 2. Open the TableauDashboard.twb file in Tableau to explore the visualizations.
 
-**Acknowledgments**
+**Acknowledgments:**
 
 This project used in this project was obtained from https://ourworldindata.org/covid-deaths.
 
@@ -108,10 +108,11 @@ Visualize Data [here](https://public.tableau.com/app/profile/fadekemi.akinduyile
 
 ![image](Images/performance.png)
 
-**Results**
+**Results:**
+
 This data analysis provides insights into revenue, unit volume, and unit pricing for different product lines, regions, and sales reps.
 
-**Project and Dataset Acknowledgements**
+**Project and Dataset Acknowledgements:**
 
 The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Tableau course, using the Office Supply Sales dataset from Kaggle. https://www.kaggle.com/datasets/fmendes/office-supply-sales
 
