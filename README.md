@@ -111,7 +111,9 @@ Visualize Data [here](https://public.tableau.com/app/profile/fadekemi.akinduyile
 **Results**
 This data analysis provides insights into revenue, unit volume, and unit pricing for different product lines, regions, and sales reps.
 
+**Project and Dataset Acknowledgements**
 
+The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Tableau course, using the Office Supply Sales dataset from Kaggle. https://www.kaggle.com/datasets/fmendes/office-supply-sales
 
 
 
