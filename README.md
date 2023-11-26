@@ -55,7 +55,7 @@ In this project, I explored COVID-19 data, specifically focusing on total cases,
 
 * SQL Queries and Analysis: I performed data exploration using these SQL queries on the COVID-19 dataset. File is [here](https://github.com/FadekemiAkinduyile/SQL-Data-Projects/blob/main/SQLQuery%20-%20COVID19%20Project.sql)
 
-* Tableau Dashboard: I created a dashboard in Tableau. The Tableau dashboard provides visualizations on total cases, deaths, vaccination rates, and their trends. View [here](https://public.tableau.com/app/profile/fadekemi.akinduyile)
+* Tableau Dashboard: I created a dashboard in Tableau. The Tableau dashboard provides visualizations on total cases, deaths, vaccination rates, and their trends. View [here](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/COVID19DashBoard_16897023854090/Dashboard1)
 
 ![image](Images/covid.png)
 
