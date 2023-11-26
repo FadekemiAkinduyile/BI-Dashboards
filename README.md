@@ -36,7 +36,6 @@ Visualize Data [here](https://drive.google.com/file/d/12Jvf1eskCjuLvB2J1vkahYhX2
  ![image 2](Images/insight.png)
 
 
-
 Recommendations
 1.	Expand profitable sub-categories
 2.	Consider not selling unprofitable sub-categories
