@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 
 <hr>
 
-# [Project 2: Product Line Performanve - Data Story using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/ProductLinePerformance_17010292790450/ProductLinePerformance)
+# [Project 2: Product Line Performance - Data Story using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/ProductLinePerformance_17010292790450/ProductLinePerformance)
 
 In this project, I analyzed the performance of a company's product lines, with the aim of identifying areas for improvement and determine the best-selling products. This analysis is based on 12 months of data for 5 product lines, 3 regions, and 11 sales reps.
 
