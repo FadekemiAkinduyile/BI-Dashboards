@@ -18,26 +18,23 @@ In this project, I analyzed the performance of a company’s product lines to id
 
 **Steps Taken:**
 
-- Load and Transform Data
+Load and Transform Data
 
-- Join Data
+Join Data
 
-- Visualize Data
-*  KPIs Chart – Multi-row card
-*  Profit Trend Chart – Line and stacked column chart
-*  Profit by Category Chart – Matrix chart
-*  Profitability by Customer Chart – Scatter chart
-*  Profit by State Chart – Tree map
-*  Profit Insights Page
-      Enhance scatter chart for interactive analysis.
-      Add Key Influencers chart for deeper insights.
-      Incorporate Q&A chart for ad hoc analysis.
+Visualize Data
+*  KPIs Chart using Multi-row card
+*  Profit Trend Chart using Line and stacked column chart
+*  Profit by Category Chart using Matrix chart
+*  Profitability by Customer Chart using Scatter chart
+*  Profit by State Chart using Tree map
+*  Profit Insights Page that includes an enhanced scatter chart for interactive analysis, Key Influencers chart for deeper insights and Q&A chart for ad hoc analysis.
 *  Slicers and Filters
-- Recommendations
-o	Expand profitable sub-categories 
-o	Consider not selling unprofitable sub-categories 
-o	Review the most unprofitable customers and underperforming states.
+Recommendations
+1.      Expand profitable sub-categories
+2.  Consider not selling unprofitable sub-categories
+3.  Review the most unprofitable customers and underperforming states.
 
-Project and Dataset Acknowledgements
+**Project and Dataset Acknowledgements**
 The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Power BI course, using the E-commerce Data dataset from Kaggle. https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
