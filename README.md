@@ -47,7 +47,7 @@ The knowledge applied in this project was learned from Codecademy’s BI Dashboa
 
 <hr>
 
-# [Project 2: Data Exploration and Visualization using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile)
+# [Project 2: Data Exploration and Visualization using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/COVID19DashBoard_16897023854090/Dashboard1)
 
 In this project, I explored COVID-19 data, specifically focusing on total cases, deaths, vaccination rates, and their relationships.
 
@@ -74,14 +74,42 @@ https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 
 https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4
 
+<hr>
 
+# [Project 2: Product Line Performanve - Data Story using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/ProductLinePerformance_17010292790450/ProductLinePerformance)
 
+In this project, I analyzed the performance of a company's product lines, with the aim of identifying areas for improvement and determine the best-selling products. This analysis is based on 12 months of data for 5 product lines, 3 regions, and 11 sales reps.
 
+**Data Story Objectives:**
 
+*  Goal: Review current product lines and identify areas for improvement
+*  Users: Finance Team
+*  Actions: Identify revenue improvement areas<br> - Identify low-performing sales reps and regions<br> - Identify variance in product pricing
+*  Usage Frequency: Monthly
 
+**Key Performance Indicators (KPIs):**
+1.	Revenue
+2.	Units
+3.	Unit Price
 
+**Steps Taken:**
 
+Load Data. Link [here](https://www.kaggle.com/datasets/fmendes/office-supply-sales)
 
+Visualize Data [here](https://public.tableau.com/app/profile/fadekemi.akinduyile/viz/ProductLinePerformance_17010292790450/ProductLinePerformance)
+* KPIs by displaying Revenue ([Unit Price] * [Units]), Units, and Unit Price.
+* Revenue Trend
+* Revenue by Item using heatmap of Revenue by Item and Region.
+* Revenue by Sales Rep, that is, sales rep performance using scatter plot.
+* Comparison chart for average Unit Price across regions.
+* Dashboard Creation by assemblying all sheets in a Z pattern layout.
+* Applied date range filters to the dashboard for better analysis.
+* Story Creation - Built a story with three tabs: Overall Product Line Performance, Highest Performing Sales Reps, and Lowest Performing Sales Reps.
+
+![image](Images/performance.png)
+
+**Results**
+This data analysis provides insights into revenue, unit volume, and unit pricing for different product lines, regions, and sales reps.
 
 
 
