@@ -1,4 +1,4 @@
-# Kemi's BI-Dashboards Portfolio
+<hr>
 
 # [Project 1: Profitability Analysis Using Power BI](https://drive.google.com/file/d/1IppUJsQNDVFO0C9AyMTPv-eQPmuG0Ixy/view?usp=sharing)
 
@@ -45,7 +45,7 @@ Recommendations
 
 The knowledge applied in this project was learned from Codecademy’s BI Dashboards with Power BI course, using the E-commerce Data dataset from Kaggle. https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
-#
+<hr>
 
 # [Project 2: Data Exploration and Visualization using Tableau](https://public.tableau.com/app/profile/fadekemi.akinduyile)
 
