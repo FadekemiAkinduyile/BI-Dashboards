@@ -1,6 +1,7 @@
 
-<hr>
 # Kemi's Portfolio
+
+<hr>
 
 # [Project 1: Profitability Analysis Using Power BI](https://drive.google.com/file/d/1IppUJsQNDVFO0C9AyMTPv-eQPmuG0Ixy/view?usp=sharing)
 
