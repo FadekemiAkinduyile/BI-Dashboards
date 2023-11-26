@@ -4,20 +4,24 @@
 
 In this project, I analyzed the performance of a company’s product lines to identify areas for improvement and enhance overall profitability.
 
-Data Story Objectives
-Review Current Product Lines
+**Data Story Objectives:**
+
+*  Goal: Review Current Product Lines
 *  Users: Finance Team
 *  Actions: Identify low-performing products and regions as well as areas for revenue improvement
 *  Usage Frequency: Monthly
 
-Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs):**
 1.	Profit
 2.	Quantity
 3.	Order Volume
 
-Steps Taken
+**Steps Taken:**
+
 Load and Transform Data
+
 Join Data
+
 Visualize Data
 *  KPIs Chart – Multi-row card
 *  Profit Trend Chart – Line and stacked column chart
@@ -25,9 +29,9 @@ Visualize Data
 *  Profitability by Customer Chart – Scatter chart
 *  Profit by State Chart – Tree map
 *  Profit Insights Page
-o	Enhance scatter chart for interactive analysis.
-o	Add Key Influencers chart for deeper insights.
-o	Incorporate Q&A chart for ad hoc analysis.
+*      Enhance scatter chart for interactive analysis.
+*      Add Key Influencers chart for deeper insights.
+*      Incorporate Q&A chart for ad hoc analysis.
 *  Slicers and Filters
 *  Recommendations
 o	Expand profitable sub-categories 
