@@ -18,22 +18,22 @@ In this project, I analyzed the performance of a company’s product lines to id
 
 **Steps Taken:**
 
-Load and Transform Data
+- Load and Transform Data
 
-Join Data
+- Join Data
 
-Visualize Data
+- Visualize Data
 *  KPIs Chart – Multi-row card
 *  Profit Trend Chart – Line and stacked column chart
 *  Profit by Category Chart – Matrix chart
 *  Profitability by Customer Chart – Scatter chart
 *  Profit by State Chart – Tree map
 *  Profit Insights Page
-*      Enhance scatter chart for interactive analysis.
-*      Add Key Influencers chart for deeper insights.
-*      Incorporate Q&A chart for ad hoc analysis.
+      Enhance scatter chart for interactive analysis.
+      Add Key Influencers chart for deeper insights.
+      Incorporate Q&A chart for ad hoc analysis.
 *  Slicers and Filters
-*  Recommendations
+- Recommendations
 o	Expand profitable sub-categories 
 o	Consider not selling unprofitable sub-categories 
 o	Review the most unprofitable customers and underperforming states.
