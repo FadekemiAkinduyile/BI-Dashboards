@@ -69,7 +69,7 @@ In this project, I explored COVID-19 data, specifically focusing on total cases,
 
 **Acknowledgments:**
 
-This project used in this project was obtained from https://ourworldindata.org/covid-deaths.
+This data used in this project was obtained from https://ourworldindata.org/covid-deaths.
 
 The knowledge applied was learned from Alex The Analyst's tutorial.
 
